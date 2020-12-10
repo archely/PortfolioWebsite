@@ -89,13 +89,13 @@ function register($data)
 <h2>Contact</h2>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
     username: <input type="text" name="name">
-    <br><br>
+    <br>
     e-mail: <input type="text" name="email">
     <br><br>
     password: <input type="text" name="website">
-    <br><br>
+    <br>
     comment: <textarea name="comment" rows="5" cols="40"></textarea>
-    <br><br>
+    <br>
 
     <input type="submit" name="submit" value="Submit">
 </form>
