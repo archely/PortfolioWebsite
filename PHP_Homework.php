@@ -5,7 +5,7 @@
 
 <?php
 
-/**PHP homework I did not connect with HTML and CSS, only tutorial
+/**PHP homework I did not connect with my portfolio , only tutorial
  * @author: Arda Burak Atila
  * Neptun code: OL1BB5
  * */
