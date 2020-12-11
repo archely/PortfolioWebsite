@@ -91,7 +91,7 @@ function register($data)
     username: <input type="text" name="name">
     <br>
     e-mail: <input type="text" name="email">
-    <br><br>
+    <br>
     password: <input type="text" name="website">
     <br>
     comment: <textarea name="comment" rows="5" cols="40"></textarea>
